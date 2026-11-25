@@ -1,8 +1,8 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 6, Task 1
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 6, Task 1
 
 const student = {
-    name: "alok chaubey",
-    rollNumber: "bcs2025476",
+    name: "sevendra",
+    rollNumber: "bcs2025534",
     course: "B.Tech CSE"
 };
 

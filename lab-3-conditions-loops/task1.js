@@ -1,4 +1,4 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 3, Task 1
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 3, Task 1
 
 let marks = 72;
 

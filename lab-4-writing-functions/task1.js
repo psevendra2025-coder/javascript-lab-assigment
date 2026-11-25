@@ -1,4 +1,4 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 4, Task 1
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 4, Task 1
 
 function greet(name) {
     return "Hello, " + name;

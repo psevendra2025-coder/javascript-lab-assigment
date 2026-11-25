@@ -1,4 +1,4 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 2, Task 2
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 2, Task 2
 
 let text = "12";
 let number = Number(text);

@@ -1,4 +1,4 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 6, Task 2
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 6, Task 2
 
 const jsonText = '{"name":"Aman","marks":85}';
 

@@ -1,5 +1,5 @@
-// Name: alok chaubey
- // Roll No.: bcs2025476
+// Name: sevendra
+ // Roll No.: bcs2025534
  // Assignment: 7, Task 2
 
 class Book {

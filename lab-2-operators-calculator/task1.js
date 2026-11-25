@@ -1,4 +1,4 @@
-// Name: alok chaubey | Roll No.: bcs2025476 | Assignment: 2, Task 1
+// Name: sevendra | Roll No.: bcs2025534 | Assignment: 2, Task 1
 
 let a = 17;
 let b = 5;

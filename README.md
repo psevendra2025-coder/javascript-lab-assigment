@@ -3,8 +3,8 @@
 
 **Course:** B.Tech CSE - Second Year  
 **Subject:** JavaScript Lab  
-**Student Name:** Alok chaubey
-**Roll Number:** BCS2025476
+**Student Name:** Sevendra
+**Roll Number:** BCS2025534
 **Assignment:** Lab Assignments 1-15 - JavaScript Lab Portfolio
 
 ---
@@ -15,8 +15,8 @@
 **Institution:** Invertis University, Bareilly  
 **Department:** Computer Science & Engineering  
 **Academic Year:** Second Year (B.Tech CSE)  
-**Student Name:** Alok chaubey
-**University Roll Number:** BCS2025476
+**Student Name:** Sevendra
+**University Roll Number:** BCS2025534
 **Student Institutional Email:** chaubeyalok23@gmail.com
 
 ---

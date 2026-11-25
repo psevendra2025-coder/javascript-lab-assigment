@@ -1,5 +1,5 @@
-// Name: alok chaubey
-// Roll No.: bcs2025476
+// Name: sevendra
+// Roll No.: bcs2025534
 
 function repeatAction(times, action) {
   for (let round = 1; round <= times; round++) {
